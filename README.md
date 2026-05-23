@@ -1,33 +1,35 @@
 # Jezreel Cayabo
 
-**'🎯Hobbies'**
-  1.Playing basketball'**
-  2.Reading books'**
+##🎯Hobbies
+  -Playing basketball
+  -Reading books
 
-**'🍲Favorite Food'** 
-  1.Sinigang na Baboy
-  2.Adobong kahit ano! 
+##🍲Favorite Food
+  -Sinigang na Baboy
+  -Adobong kahit ano! 
 
-**'Quote'**
+##Quote
  "Success is not an accident, success is           actually a choice."
 
-**'🤖 Project'**
+##🤖 Project
   -Automatic Hand Sanitizer
 
+##
 **📍Barangay Bagong Silang, Puerto Princesa, Palawan
 
 |  Role |institution|
 |______ |______________________|
 |Student| Engineering student |
 
-**'💪🏼Skills'**
+##💪🏼Skills
+
 |       Skills    |    level  |
 |_________________|_____________|
 |    Coding       | Begginner |
 |   PCB Designing   | Begginner |
 |Schematic Designing| Begginner |
 
-**'🔮Goal'**
+##🔮Goal
  "Creating my own design,and become an engineer."
 
 ##Contact:093632027967
