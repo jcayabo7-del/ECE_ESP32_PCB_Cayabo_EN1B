@@ -16,12 +16,12 @@
 
 **📍Barangay Bagong Silang, Puerto Princesa, Palawan
 |  Role  |     institution      |
-________________________________
+|_______________________________|
 |Student | Engineering student  |
 
 **'💪🏼Skills'**
 |       Skills      |    level  |
-________________________________
+|_______________________________|
 |      Coding       | Begginner |
 |   PCB Designing   | Begginner |
 |Schematic Designing| Begginner |
