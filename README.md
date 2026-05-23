@@ -4,6 +4,8 @@
   -Playing basketball
   -Reading books
 
+___
+
 ##🍲Favorite Food
   -Sinigang na Baboy
   -Adobong kahit ano! 
@@ -11,23 +13,29 @@
 ##Quote
  "Success is not an accident, success is           actually a choice."
 
+___
+
 ##🤖 Project
   -Automatic Hand Sanitizer
 
+___
+
 ##
-**📍Barangay Bagong Silang, Puerto Princesa, Palawan
+**📍BARANGAY BAGONG SILANG, PUERTO PRINCESA,PPALAWAN
 
 |  Role |institution|
-|______ |______________________|
+|-------|---------------------|
 |Student| Engineering student |
 
 ##💪🏼Skills
 
 |       Skills    |    level  |
-|_________________|_____________|
+|-----------------|-----------|
 |    Coding       | Begginner |
 |   PCB Designing   | Begginner |
 |Schematic Designing| Begginner |
+
+___
 
 ##🔮Goal
  "Creating my own design,and become an engineer."
