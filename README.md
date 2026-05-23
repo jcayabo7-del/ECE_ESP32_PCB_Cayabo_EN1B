@@ -8,7 +8,9 @@ ___
 
 ##🍲Favorite Food
   -Sinigang na Baboy
-  -Adobong kahit ano! 
+  -Adobong kahit ano!
+
+___ 
 
 ##Quote
  "Success is not an accident, success is           actually a choice."
