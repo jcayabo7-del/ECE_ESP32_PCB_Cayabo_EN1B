@@ -1,54 +1,31 @@
-# Jezreel Cayabo
+## Project title
+-ESP32 Expansion Board
 
-##🎯Hobbies
-  -Playing basketball
-  -Reading books
 
-___
+## Project Description
+-An ESP32 Expansion Board is a hardware platform designed to simplify the development, prototyping, and deployment of IoT, automation, robotics, and embedded systems projects using the ESP32 microcontroller. The board expands the ESP32's GPIO pins into easily accessible headers, provides stable power distribution, and enables quick connection of sensors, actuators, displays, and communication modules.
 
-##🍲Favorite Food
-  -Sinigang na Baboy
-  -Adobong kahit ano!
+## Features
+-An ESP32 Expansion Board is designed to make ESP32 development easier by providing organized access to power, GPIO pins, and external devices. Common features include:
 
-___ 
 
-##Quote
- "Success is not an accident, success is           actually a choice."
+## Components
+- ESP32 Development Module (30-pin or 38-pin)
+- Expansion PCB
+- Voltage regulator circuit
+- Power selection circuitry
+- GPIO breakout headers
+- Status LEDs
+- Optional screw terminals or sensor connectors
 
-___
+## Software
+- The ESP32 Expansion Board itself is hardware, but it requires software tools for programming, uploading code, debugging, and managing IoT applications.
 
-##🤖 Project
-  -Automatic Hand Sanitizer
+## Autor name
+- Jezreel Cayabo
 
-___
-
-##
-**📍BARANGAY BAGONG SILANG, PUERTO PRINCESA,PPALAWAN
-
-|  Role |institution|
-|-------|---------------------|
-|Student| Engineering student |
-
-##💪🏼Skills
-
-|       Skills    |    level  |
-|-----------------|-----------|
-|    Coding       | Begginner |
-|   PCB Designing   | Begginner |
-|Schematic Designing| Begginner |
-
-___
-
-##🔮Goal
- "Creating my own design,and become an engineer."
-
-##Contact:093632027967
-
- -GitHub:jcayabo7-deg
- -jcayabo7@gmail.com
-
-Thank for visiting my portfolio😘
-
+  ## Cource/section
+  - ECE/EN1B
 
  
 
